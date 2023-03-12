@@ -1,4 +1,4 @@
-# Sprint_1
+# AULA-GITHUB-E-GITBASH
 
 Editado na maquina local
 
